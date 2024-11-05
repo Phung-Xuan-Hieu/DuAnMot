@@ -1,0 +1,15 @@
+D:\BaiTap\DuAnMot\2_BUS\bin\Debug\net8.0\2_BUS.deps.json
+D:\BaiTap\DuAnMot\2_BUS\bin\Debug\net8.0\2_BUS.dll
+D:\BaiTap\DuAnMot\2_BUS\bin\Debug\net8.0\2_BUS.pdb
+D:\BaiTap\DuAnMot\2_BUS\bin\Debug\net8.0\1_DAL.dll
+D:\BaiTap\DuAnMot\2_BUS\bin\Debug\net8.0\1_DAL.pdb
+D:\BaiTap\DuAnMot\2_BUS\obj\Debug\net8.0\2_BUS.csproj.AssemblyReference.cache
+D:\BaiTap\DuAnMot\2_BUS\obj\Debug\net8.0\2_BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTap\DuAnMot\2_BUS\obj\Debug\net8.0\2_BUS.AssemblyInfoInputs.cache
+D:\BaiTap\DuAnMot\2_BUS\obj\Debug\net8.0\2_BUS.AssemblyInfo.cs
+D:\BaiTap\DuAnMot\2_BUS\obj\Debug\net8.0\2_BUS.csproj.CoreCompileInputs.cache
+D:\BaiTap\DuAnMot\2_BUS\obj\Debug\net8.0\2_BUS.csproj.Up2Date
+D:\BaiTap\DuAnMot\2_BUS\obj\Debug\net8.0\2_BUS.dll
+D:\BaiTap\DuAnMot\2_BUS\obj\Debug\net8.0\refint\2_BUS.dll
+D:\BaiTap\DuAnMot\2_BUS\obj\Debug\net8.0\2_BUS.pdb
+D:\BaiTap\DuAnMot\2_BUS\obj\Debug\net8.0\ref\2_BUS.dll

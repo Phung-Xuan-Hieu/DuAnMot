@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaiTap\\DuAnMot\\DuAnMot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{331CAA62-E1A7-4814-A13F-80B102BE528C}|..\\1_DAL\\1_DAL.csproj|d:\\baitap\\duanmot\\1_dal\\responsitory\\voucherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331CAA62-E1A7-4814-A13F-80B102BE528C}|..\\1_DAL\\1_DAL.csproj|d:\\baitap\\duanmot\\1_dal\\responsitory\\userresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331CAA62-E1A7-4814-A13F-80B102BE528C}|..\\1_DAL\\1_DAL.csproj|d:\\baitap\\duanmot\\1_dal\\responsitory\\roleresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331CAA62-E1A7-4814-A13F-80B102BE528C}|..\\1_DAL\\1_DAL.csproj|d:\\baitap\\duanmot\\1_dal\\responsitory\\ressupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331CAA62-E1A7-4814-A13F-80B102BE528C}|..\\1_DAL\\1_DAL.csproj|d:\\baitap\\duanmot\\1_dal\\responsitory\\ressize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331CAA62-E1A7-4814-A13F-80B102BE528C}|..\\1_DAL\\1_DAL.csproj|d:\\baitap\\duanmot\\1_dal\\responsitory\\rescolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331CAA62-E1A7-4814-A13F-80B102BE528C}|..\\1_DAL\\1_DAL.csproj|d:\\baitap\\duanmot\\1_dal\\responsitory\\rescategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331CAA62-E1A7-4814-A13F-80B102BE528C}|..\\1_DAL\\1_DAL.csproj|d:\\baitap\\duanmot\\1_dal\\responsitory\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331CAA62-E1A7-4814-A13F-80B102BE528C}|..\\1_DAL\\1_DAL.csproj|d:\\baitap\\duanmot\\1_dal\\responsitory\\customerresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331CAA62-E1A7-4814-A13F-80B102BE528C}|..\\1_DAL\\1_DAL.csproj|d:\\baitap\\duanmot\\1_dal\\responsitory\\billresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331CAA62-E1A7-4814-A13F-80B102BE528C}|..\\1_DAL\\1_DAL.csproj|d:\\baitap\\duanmot\\1_dal\\responsitory\\billldetailresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoucherRepository.cs",
+              "DocumentMoniker": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\VoucherRepository.cs",
+              "RelativeDocumentMoniker": "..\\1_DAL\\Responsitory\\VoucherRepository.cs",
+              "ToolTip": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\VoucherRepository.cs",
+              "RelativeToolTip": "..\\1_DAL\\Responsitory\\VoucherRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:52:47.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserResponsitory.cs",
+              "DocumentMoniker": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\UserResponsitory.cs",
+              "RelativeDocumentMoniker": "..\\1_DAL\\Responsitory\\UserResponsitory.cs",
+              "ToolTip": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\UserResponsitory.cs",
+              "RelativeToolTip": "..\\1_DAL\\Responsitory\\UserResponsitory.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:52:15.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleResponsitory.cs",
+              "DocumentMoniker": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\RoleResponsitory.cs",
+              "RelativeDocumentMoniker": "..\\1_DAL\\Responsitory\\RoleResponsitory.cs",
+              "ToolTip": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\RoleResponsitory.cs",
+              "RelativeToolTip": "..\\1_DAL\\Responsitory\\RoleResponsitory.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:51:44.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResSupplier.cs",
+              "DocumentMoniker": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\ResSupplier.cs",
+              "RelativeDocumentMoniker": "..\\1_DAL\\Responsitory\\ResSupplier.cs",
+              "ToolTip": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\ResSupplier.cs",
+              "RelativeToolTip": "..\\1_DAL\\Responsitory\\ResSupplier.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:51:09.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResSize.cs",
+              "DocumentMoniker": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\ResSize.cs",
+              "RelativeDocumentMoniker": "..\\1_DAL\\Responsitory\\ResSize.cs",
+              "ToolTip": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\ResSize.cs",
+              "RelativeToolTip": "..\\1_DAL\\Responsitory\\ResSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:50:24.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResColor.cs",
+              "DocumentMoniker": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\ResColor.cs",
+              "RelativeDocumentMoniker": "..\\1_DAL\\Responsitory\\ResColor.cs",
+              "ToolTip": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\ResColor.cs",
+              "RelativeToolTip": "..\\1_DAL\\Responsitory\\ResColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:49:15.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResCategory.cs",
+              "DocumentMoniker": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\ResCategory.cs",
+              "RelativeDocumentMoniker": "..\\1_DAL\\Responsitory\\ResCategory.cs",
+              "ToolTip": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\ResCategory.cs",
+              "RelativeToolTip": "..\\1_DAL\\Responsitory\\ResCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:48:36.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "..\\1_DAL\\Responsitory\\ProductRepo.cs",
+              "ToolTip": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\ProductRepo.cs",
+              "RelativeToolTip": "..\\1_DAL\\Responsitory\\ProductRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:44:41.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerResponsitory.cs",
+              "DocumentMoniker": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\CustomerResponsitory.cs",
+              "RelativeDocumentMoniker": "..\\1_DAL\\Responsitory\\CustomerResponsitory.cs",
+              "ToolTip": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\CustomerResponsitory.cs",
+              "RelativeToolTip": "..\\1_DAL\\Responsitory\\CustomerResponsitory.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:43:59.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BillResponsitory.cs",
+              "DocumentMoniker": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\BillResponsitory.cs",
+              "RelativeDocumentMoniker": "..\\1_DAL\\Responsitory\\BillResponsitory.cs",
+              "ToolTip": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\BillResponsitory.cs",
+              "RelativeToolTip": "..\\1_DAL\\Responsitory\\BillResponsitory.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:42:18.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BilllDetailResponsitory.cs",
+              "DocumentMoniker": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\BilllDetailResponsitory.cs",
+              "RelativeDocumentMoniker": "..\\1_DAL\\Responsitory\\BilllDetailResponsitory.cs",
+              "ToolTip": "D:\\BaiTap\\DuAnMot\\1_DAL\\Responsitory\\BilllDetailResponsitory.cs",
+              "RelativeToolTip": "..\\1_DAL\\Responsitory\\BilllDetailResponsitory.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:41:10.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

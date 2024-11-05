@@ -1,0 +1,14 @@
+D:\BaiTap\DuAnMot\1_DAL\bin\Debug\net8.0\1_DAL.deps.json
+D:\BaiTap\DuAnMot\1_DAL\bin\Debug\net8.0\1_DAL.runtimeconfig.json
+D:\BaiTap\DuAnMot\1_DAL\bin\Debug\net8.0\1_DAL.dll
+D:\BaiTap\DuAnMot\1_DAL\bin\Debug\net8.0\1_DAL.pdb
+D:\BaiTap\DuAnMot\1_DAL\obj\Debug\net8.0\1_DAL.csproj.AssemblyReference.cache
+D:\BaiTap\DuAnMot\1_DAL\obj\Debug\net8.0\1_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTap\DuAnMot\1_DAL\obj\Debug\net8.0\1_DAL.AssemblyInfoInputs.cache
+D:\BaiTap\DuAnMot\1_DAL\obj\Debug\net8.0\1_DAL.AssemblyInfo.cs
+D:\BaiTap\DuAnMot\1_DAL\obj\Debug\net8.0\1_DAL.csproj.CoreCompileInputs.cache
+D:\BaiTap\DuAnMot\1_DAL\obj\Debug\net8.0\1_DAL.dll
+D:\BaiTap\DuAnMot\1_DAL\obj\Debug\net8.0\refint\1_DAL.dll
+D:\BaiTap\DuAnMot\1_DAL\obj\Debug\net8.0\1_DAL.pdb
+D:\BaiTap\DuAnMot\1_DAL\obj\Debug\net8.0\1_DAL.genruntimeconfig.cache
+D:\BaiTap\DuAnMot\1_DAL\obj\Debug\net8.0\ref\1_DAL.dll
